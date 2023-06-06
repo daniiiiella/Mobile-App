@@ -1,4 +1,4 @@
-# readme-model
+
 <h1 align="center">:file_cabinet: README</h1>
 
 ## :memo: Descrição
@@ -14,3 +14,4 @@ Franci Arte e Costura, negócio criado por Francineide Morais para confecção d
 @NicollyXavier(https://github.com/NicollyXavier) @daniiiiella(https://github.com/daniiiiella)
 
 ## :dart: Status do projeto
+Em Processo de criação
