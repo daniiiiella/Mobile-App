@@ -8,7 +8,7 @@ Franci Arte e Costura, negócio criado por Francineide Morais para confecção d
 * <b>Funcionalidade 1</b>: O App tem uma tela home com opção de fazer uma lista de pedidos e excluir a qualquer momento, temos também um botão para maiores informações sobre como tirar suas medidas. Na parte inferior do app temos uma TabBar onde é possível navegar pelo "Feed", "Perfil" e "Settings". Na aba "Feed" temos um scrollview com fotos de nossos modelos. Na aba "Perfil" temos uma descrição sobre nossa loja. Na aba "Settings" temos opções para o usuário como conta, redefinição de senha, ajuda e sair.
 
 ## :wrench: Tecnologias utilizadas
-* JavaScript, React Native e Banco de dados;
+* JavaScript, React Native, Docker e Beekeper;
 
 ## :handshake: Colaboradores
 @NicollyXavier(https://github.com/NicollyXavier) @daniiiiella(https://github.com/daniiiiella)
