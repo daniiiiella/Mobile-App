@@ -11,17 +11,6 @@ Franci Arte e Costura, negócio criado por Francineide Morais para confecção d
 * JavaScript, React Native e Banco de dados;
 
 ## :handshake: Colaboradores
-<table>
-  <tr>
-    <td align="center">
-      <b>
-      <a href="https://github.com/daniiiiella">
-         <a href="https://github.com/NicollyXavier">
-      </a>
-        </a>
-        </b>
-    </td>
-  </tr>
-</table>
+@NicollyXavier(https://github.com/NicollyXavier) @daniiiiella(https://github.com/daniiiiella)
 
 ## :dart: Status do projeto
