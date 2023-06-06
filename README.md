@@ -1,34 +1,23 @@
 # readme-model
-<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
+<h1 align="center">:file_cabinet: README</h1>
 
 ## :memo: Descrição
-Escreva uma descrição do seu projeto
+Franci Arte e Costura, negócio criado por Francineide Morais para confecção de roupas, fantasias, abadás e etc. O projeto tem como objetivo tornar mais rápido e prático o atendimento aos clientes, facilitando não só para os clientes como para a loja. Nosso aplicativo automatizaria os pedidos feitos, onde os compradores possam escolher seu modelo de roupa, adicionar suas medidas e qual(is) tipo(s) de tecido deseja usar, além disso os que desejarem fazer ajuste de peça também teriam uma área para isso. Com isso a loja irá possuir todos seus pedidos detalhados e organizados em um só lugar 
 
 ## :books: Funcionalidades
-* <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
+* <b>Funcionalidade 1</b>: O App tem uma tela home com opção de fazer uma lista de pedidos e excluir a qualquer momento, temos também um botão para maiores informações sobre como tirar suas medidas. Na parte inferior do app temos uma TabBar onde é possível navegar pelo "Feed", "Perfil" e "Settings". Na aba "Feed" temos um scrollview com fotos de nossos modelos. Na aba "Perfil" temos uma descrição sobre nossa loja. Na aba "Settings" temos opções para o usuário como conta, redefinição de senha, ajuda e sair.
 
 ## :wrench: Tecnologias utilizadas
-* Tecnologia;
-
-## :rocket: Rodando o projeto
-Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
-```
-<linha de comando>
-```
-
-## :soon: Implementação futura
-* O que será implementado na próxima sprint?
+* JavaScript, React Native e Banco de dados;
 
 ## :handshake: Colaboradores
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tatialveso">
-        <img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
-        <sub>
-          <b>tatialveso</b>
-        </sub>
+      <a href="https://github.com/daniiiiella">
+         <a href="https://github.com/NicollyXavier">
       </a>
+        </a>
     </td>
   </tr>
 </table>
