@@ -14,10 +14,12 @@ Franci Arte e Costura, negócio criado por Francineide Morais para confecção d
 <table>
   <tr>
     <td align="center">
+      <b>
       <a href="https://github.com/daniiiiella">
          <a href="https://github.com/NicollyXavier">
       </a>
         </a>
+        </b>
     </td>
   </tr>
 </table>
